@@ -1,0 +1,390 @@
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:100 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:428 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:434 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:436 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:437 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:438 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:964 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:967 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:981 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff482c80000 RAM(16 MB) 00007ff48ec80000 VRAM64(8 MB) 00007ff486c80000 ARAM(2 MB) 00007ff4a2c80000
+00:00:995 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:010 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff482c80000 RAM(16 MB) 00007ff48ec80000 VRAM64(8 MB) 00007ff486c80000 ARAM(2 MB) 00007ff4a2c80000
+00:01:531 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:531 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:531 reios/reios.cpp:635 N[REIOS]: -----------------
+03:51:324 rend/dx11/dx11_renderer.cpp:175 N[RENDERER]: DX11 renderer terminating
+03:51:346 rend/dx11/dx11context.cpp:201 N[RENDERER]: DX11 Context terminating
+03:51:347 rend/dx11/dx11_shaders.cpp:759 N[RENDERER]: Saved 19 shaders to C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:100 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:392 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:398 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:400 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:400 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:401 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:854 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:857 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:871 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff4b7840000 RAM(16 MB) 00007ff4c3840000 VRAM64(8 MB) 00007ff4bb840000 ARAM(2 MB) 00007ff4d7840000
+00:00:887 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:905 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff4b7840000 RAM(16 MB) 00007ff4c3840000 VRAM64(8 MB) 00007ff4bb840000 ARAM(2 MB) 00007ff4d7840000
+00:01:448 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:448 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:448 reios/reios.cpp:635 N[REIOS]: -----------------
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:095 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:377 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:383 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:385 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:386 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:387 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:961 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:967 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:984 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff48ca10000 RAM(16 MB) 00007ff498a10000 VRAM64(8 MB) 00007ff490a10000 ARAM(2 MB) 00007ff4aca10000
+00:01:004 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:027 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff48ca10000 RAM(16 MB) 00007ff498a10000 VRAM64(8 MB) 00007ff490a10000 ARAM(2 MB) 00007ff4aca10000
+00:01:557 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:557 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:557 reios/reios.cpp:635 N[REIOS]: -----------------
+02:46:257 rend/dx11/dx11_renderer.cpp:175 N[RENDERER]: DX11 renderer terminating
+02:46:282 rend/dx11/dx11context.cpp:201 N[RENDERER]: DX11 Context terminating
+02:46:283 rend/dx11/dx11_shaders.cpp:759 N[RENDERER]: Saved 19 shaders to C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:095 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:393 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:400 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:402 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:403 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:404 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:987 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:991 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:004 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff406ac0000 RAM(16 MB) 00007ff412ac0000 VRAM64(8 MB) 00007ff40aac0000 ARAM(2 MB) 00007ff426ac0000
+00:01:021 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:038 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff406ac0000 RAM(16 MB) 00007ff412ac0000 VRAM64(8 MB) 00007ff40aac0000 ARAM(2 MB) 00007ff426ac0000
+00:01:566 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:566 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:566 reios/reios.cpp:635 N[REIOS]: -----------------
+00:38:122 rend/dx11/dx11_renderer.cpp:175 N[RENDERER]: DX11 renderer terminating
+00:38:147 rend/dx11/dx11context.cpp:201 N[RENDERER]: DX11 Context terminating
+00:38:147 rend/dx11/dx11_shaders.cpp:759 N[RENDERER]: Saved 19 shaders to C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:093 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:422 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:429 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:431 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:432 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:433 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:991 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:994 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:006 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff453810000 RAM(16 MB) 00007ff45f810000 VRAM64(8 MB) 00007ff457810000 ARAM(2 MB) 00007ff473810000
+00:01:019 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:034 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff453810000 RAM(16 MB) 00007ff45f810000 VRAM64(8 MB) 00007ff457810000 ARAM(2 MB) 00007ff473810000
+00:01:536 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:536 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:536 reios/reios.cpp:635 N[REIOS]: -----------------
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:100 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:394 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:400 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:402 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:402 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:404 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:901 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:903 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:916 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff41dc70000 RAM(16 MB) 00007ff429c70000 VRAM64(8 MB) 00007ff421c70000 ARAM(2 MB) 00007ff43dc70000
+00:00:931 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:947 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff41dc70000 RAM(16 MB) 00007ff429c70000 VRAM64(8 MB) 00007ff421c70000 ARAM(2 MB) 00007ff43dc70000
+00:01:470 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:470 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:470 reios/reios.cpp:635 N[REIOS]: -----------------
+06:57:336 rend/dx11/dx11_renderer.cpp:175 N[RENDERER]: DX11 renderer terminating
+06:57:358 rend/dx11/dx11context.cpp:201 N[RENDERER]: DX11 Context terminating
+06:57:359 rend/dx11/dx11_shaders.cpp:759 N[RENDERER]: Saved 19 shaders to C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:102 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:420 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:427 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:429 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:430 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:431 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:921 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:925 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:937 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff49a300000 RAM(16 MB) 00007ff4a6300000 VRAM64(8 MB) 00007ff49e300000 ARAM(2 MB) 00007ff4ba300000
+00:00:948 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:964 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff49a300000 RAM(16 MB) 00007ff4a6300000 VRAM64(8 MB) 00007ff49e300000 ARAM(2 MB) 00007ff4ba300000
+00:01:482 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:482 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:482 reios/reios.cpp:635 N[REIOS]: -----------------
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:093 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:375 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:381 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:383 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:384 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:385 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:842 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:846 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:858 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff3e25e0000 RAM(16 MB) 00007ff3ee5e0000 VRAM64(8 MB) 00007ff3e65e0000 ARAM(2 MB) 00007ff4025e0000
+00:00:873 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:888 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff3e25e0000 RAM(16 MB) 00007ff3ee5e0000 VRAM64(8 MB) 00007ff3e65e0000 ARAM(2 MB) 00007ff4025e0000
+00:01:392 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:392 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:392 reios/reios.cpp:635 N[REIOS]: -----------------
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:080 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:351 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:357 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:359 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:359 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:360 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:805 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:808 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:821 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff42b410000 RAM(16 MB) 00007ff437410000 VRAM64(8 MB) 00007ff42f410000 ARAM(2 MB) 00007ff44b410000
+00:00:835 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:850 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff42b410000 RAM(16 MB) 00007ff437410000 VRAM64(8 MB) 00007ff42f410000 ARAM(2 MB) 00007ff44b410000
+00:01:345 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:345 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:345 reios/reios.cpp:635 N[REIOS]: -----------------
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:093 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:411 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:417 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:420 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:420 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:422 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:897 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:900 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:911 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff3e8a20000 RAM(16 MB) 00007ff3f4a20000 VRAM64(8 MB) 00007ff3eca20000 ARAM(2 MB) 00007ff408a20000
+00:00:924 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:940 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff3e8a20000 RAM(16 MB) 00007ff3f4a20000 VRAM64(8 MB) 00007ff3eca20000 ARAM(2 MB) 00007ff408a20000
+00:01:150 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:151 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:151 reios/reios.cpp:635 N[REIOS]: -----------------
+02:50:843 rend/dx11/dx11_renderer.cpp:175 N[RENDERER]: DX11 renderer terminating
+02:50:850 rend/dx11/dx11context.cpp:201 N[RENDERER]: DX11 Context terminating
+02:50:851 rend/dx11/dx11_shaders.cpp:759 N[RENDERER]: Saved 19 shaders to C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:119 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:505 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:512 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:514 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:514 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:515 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:01:174 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:01:177 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:191 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff462d20000 RAM(16 MB) 00007ff46ed20000 VRAM64(8 MB) 00007ff466d20000 ARAM(2 MB) 00007ff482d20000
+00:01:200 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:218 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff462d20000 RAM(16 MB) 00007ff46ed20000 VRAM64(8 MB) 00007ff466d20000 ARAM(2 MB) 00007ff482d20000
+00:01:778 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:778 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:778 reios/reios.cpp:635 N[REIOS]: -----------------
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:084 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:371 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:377 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:379 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:389 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:390 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:844 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:847 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:862 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff443720000 RAM(16 MB) 00007ff44f720000 VRAM64(8 MB) 00007ff447720000 ARAM(2 MB) 00007ff463720000
+00:00:876 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:890 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff443720000 RAM(16 MB) 00007ff44f720000 VRAM64(8 MB) 00007ff447720000 ARAM(2 MB) 00007ff463720000
+00:01:411 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:411 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:411 reios/reios.cpp:635 N[REIOS]: -----------------
+08:53:292 rend/dx11/dx11_renderer.cpp:175 N[RENDERER]: DX11 renderer terminating
+08:53:313 rend/dx11/dx11context.cpp:201 N[RENDERER]: DX11 Context terminating
+08:53:314 rend/dx11/dx11_shaders.cpp:759 N[RENDERER]: Saved 19 shaders to C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:095 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:419 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:426 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:428 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:428 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:430 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:872 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:875 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:888 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff3ef1a0000 RAM(16 MB) 00007ff3fb1a0000 VRAM64(8 MB) 00007ff3f31a0000 ARAM(2 MB) 00007ff40f1a0000
+00:00:900 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:914 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff3ef1a0000 RAM(16 MB) 00007ff3fb1a0000 VRAM64(8 MB) 00007ff3f31a0000 ARAM(2 MB) 00007ff40f1a0000
+00:01:418 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:418 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:418 reios/reios.cpp:635 N[REIOS]: -----------------
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:082 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:349 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:355 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:356 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:356 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:358 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:804 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:808 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:821 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff42deb0000 RAM(16 MB) 00007ff439eb0000 VRAM64(8 MB) 00007ff431eb0000 ARAM(2 MB) 00007ff44deb0000
+00:00:838 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:853 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff42deb0000 RAM(16 MB) 00007ff439eb0000 VRAM64(8 MB) 00007ff431eb0000 ARAM(2 MB) 00007ff44deb0000
+00:01:356 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:356 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:356 reios/reios.cpp:635 N[REIOS]: -----------------
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:082 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:357 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:364 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:365 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:366 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:367 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:882 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:885 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:900 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff4267d0000 RAM(16 MB) 00007ff4327d0000 VRAM64(8 MB) 00007ff42a7d0000 ARAM(2 MB) 00007ff4467d0000
+00:00:916 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:933 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff4267d0000 RAM(16 MB) 00007ff4327d0000 VRAM64(8 MB) 00007ff42a7d0000 ARAM(2 MB) 00007ff4467d0000
+00:01:425 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:425 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:425 reios/reios.cpp:635 N[REIOS]: -----------------
+00:24:527 rend/dx11/dx11_renderer.cpp:175 N[RENDERER]: DX11 renderer terminating
+00:24:549 rend/dx11/dx11context.cpp:201 N[RENDERER]: DX11 Context terminating
+00:24:550 rend/dx11/dx11_shaders.cpp:759 N[RENDERER]: Saved 19 shaders to C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:090 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:374 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:380 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:382 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:383 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:384 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:834 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:838 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:852 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff4da480000 RAM(16 MB) 00007ff4e6480000 VRAM64(8 MB) 00007ff4de480000 ARAM(2 MB) 00007ff4fa480000
+00:00:866 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:882 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff4da480000 RAM(16 MB) 00007ff4e6480000 VRAM64(8 MB) 00007ff4de480000 ARAM(2 MB) 00007ff4fa480000
+00:01:372 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:372 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:372 reios/reios.cpp:635 N[REIOS]: -----------------
+00:23:781 rend/dx11/dx11_renderer.cpp:175 N[RENDERER]: DX11 renderer terminating
+00:23:803 rend/dx11/dx11context.cpp:201 N[RENDERER]: DX11 Context terminating
+00:23:804 rend/dx11/dx11_shaders.cpp:759 N[RENDERER]: Saved 19 shaders to C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:092 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:363 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:369 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:370 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:371 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:372 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:844 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:861 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:874 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff4b4360000 RAM(16 MB) 00007ff4c0360000 VRAM64(8 MB) 00007ff4b8360000 ARAM(2 MB) 00007ff4d4360000
+00:00:891 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:906 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff4b4360000 RAM(16 MB) 00007ff4c0360000 VRAM64(8 MB) 00007ff4b8360000 ARAM(2 MB) 00007ff4d4360000
+00:01:406 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:407 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:407 reios/reios.cpp:635 N[REIOS]: -----------------
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:085 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:364 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:370 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:372 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:372 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:374 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:847 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:851 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:865 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff43b520000 RAM(16 MB) 00007ff447520000 VRAM64(8 MB) 00007ff43f520000 ARAM(2 MB) 00007ff45b520000
+00:00:881 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:898 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff43b520000 RAM(16 MB) 00007ff447520000 VRAM64(8 MB) 00007ff43f520000 ARAM(2 MB) 00007ff45b520000
+00:01:414 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:414 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:414 reios/reios.cpp:635 N[REIOS]: -----------------
+00:07:663 rend/dx11/dx11_renderer.cpp:175 N[RENDERER]: DX11 renderer terminating
+00:07:669 rend/dx11/dx11context.cpp:201 N[RENDERER]: DX11 Context terminating
+00:07:670 rend/dx11/dx11_shaders.cpp:759 N[RENDERER]: Saved 19 shaders to C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:121 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:478 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:487 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:490 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:506 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:507 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:01:255 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:01:261 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:279 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff437ea0000 RAM(16 MB) 00007ff443ea0000 VRAM64(8 MB) 00007ff43bea0000 ARAM(2 MB) 00007ff457ea0000
+00:01:300 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:322 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff437ea0000 RAM(16 MB) 00007ff443ea0000 VRAM64(8 MB) 00007ff43bea0000 ARAM(2 MB) 00007ff457ea0000
+00:01:710 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:710 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:710 reios/reios.cpp:635 N[REIOS]: -----------------
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:094 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:395 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:403 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:405 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:405 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:406 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:948 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:951 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:968 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff40c8b0000 RAM(16 MB) 00007ff4188b0000 VRAM64(8 MB) 00007ff4108b0000 ARAM(2 MB) 00007ff42c8b0000
+00:00:982 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:001 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff40c8b0000 RAM(16 MB) 00007ff4188b0000 VRAM64(8 MB) 00007ff4108b0000 ARAM(2 MB) 00007ff42c8b0000
+00:01:292 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:292 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:292 reios/reios.cpp:635 N[REIOS]: -----------------
+00:08:228 rend/dx11/dx11_renderer.cpp:175 N[RENDERER]: DX11 renderer terminating
+00:08:256 rend/dx11/dx11context.cpp:201 N[RENDERER]: DX11 Context terminating
+00:08:257 rend/dx11/dx11_shaders.cpp:759 N[RENDERER]: Saved 19 shaders to C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:099 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:391 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:397 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:399 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:399 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:400 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:896 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:914 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:930 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff3eced0000 RAM(16 MB) 00007ff3f8ed0000 VRAM64(8 MB) 00007ff3f0ed0000 ARAM(2 MB) 00007ff40ced0000
+00:00:945 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:963 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff3eced0000 RAM(16 MB) 00007ff3f8ed0000 VRAM64(8 MB) 00007ff3f0ed0000 ARAM(2 MB) 00007ff40ced0000
+00:01:236 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:236 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:236 reios/reios.cpp:635 N[REIOS]: -----------------
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:110 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:443 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:449 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:451 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:452 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:453 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:955 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:959 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:973 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff4cd880000 RAM(16 MB) 00007ff4d9880000 VRAM64(8 MB) 00007ff4d1880000 ARAM(2 MB) 00007ff4ed880000
+00:00:990 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:007 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff4cd880000 RAM(16 MB) 00007ff4d9880000 VRAM64(8 MB) 00007ff4d1880000 ARAM(2 MB) 00007ff4ed880000
+00:01:262 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:262 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:262 reios/reios.cpp:635 N[REIOS]: -----------------
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:101 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:400 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:406 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:408 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:408 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:409 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:990 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:994 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:007 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff476ed0000 RAM(16 MB) 00007ff482ed0000 VRAM64(8 MB) 00007ff47aed0000 ARAM(2 MB) 00007ff496ed0000
+00:01:023 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:01:039 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff476ed0000 RAM(16 MB) 00007ff482ed0000 VRAM64(8 MB) 00007ff47aed0000 ARAM(2 MB) 00007ff496ed0000
+00:01:281 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:281 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:281 reios/reios.cpp:635 N[REIOS]: -----------------
+00:00:000 rend/dx11/dx11context.cpp:41 N[RENDERER]: DX11 Context initializing
+00:00:105 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1920 x 1080)
+00:00:428 rend/dx11/dx11context.cpp:186 N[RENDERER]: No system-provided shader cache
+00:00:434 ui/gui.cpp:341 N[RENDERER]: Screen DPI is 96, size 867 x 480. Scaling by 1.00
+00:00:437 rend/dx11/dx11context.cpp:316 N[RENDERER]: Swapchain resized: 867 x 480
+00:00:437 rend/dx11/dx11_shaders.cpp:785 N[RENDERER]: Loaded 19 shaders from C:\Users\thear\Downloads\flycast\data\dx11_shader_cache.bin
+00:00:438 rend/dx11/dx11context.cpp:398 W[RENDERER]: Format B4G4R4A4 doesn't support mipmap autogen
+00:00:936 rend/dx11/dx11_renderer.cpp:45 N[RENDERER]: DX11 renderer initializing
+00:00:939 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:953 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff479950000 RAM(16 MB) 00007ff485950000 VRAM64(8 MB) 00007ff47d950000 ARAM(2 MB) 00007ff499950000
+00:00:968 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:00:986 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 00007ff479950000 RAM(16 MB) 00007ff485950000 VRAM64(8 MB) 00007ff47d950000 ARAM(2 MB) 00007ff499950000
+00:01:240 reios/reios.cpp:633 N[REIOS]: -----------------
+00:01:240 reios/reios.cpp:634 N[REIOS]: REIOS: Booting up
+00:01:240 reios/reios.cpp:635 N[REIOS]: -----------------
